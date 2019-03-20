@@ -5,3 +5,5 @@ function printString(myString) {
 }
  
 printString("pizza");
+
+printString("oops");
